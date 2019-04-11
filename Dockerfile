@@ -1,1 +1,1 @@
-FROM gcr.io/spinnaker-marketplace/echo:2.1.0-20181003100130
+FROM gcr.io/spinnaker-marketplace/echo:2.4.1-20190403155503
